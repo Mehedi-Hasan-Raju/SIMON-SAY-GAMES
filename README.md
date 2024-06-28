@@ -22,8 +22,8 @@
 <p>You will need a web browser and a text editor. Optionally, you can use a local server setup for a better development experience.</p>
 <h4>Installation</h4>
 <p>
-    1. Clone the repository.
-    2. Navigate to the project directory.
+    1. Clone the repository.<br>
+    2. Navigate to the project directory.<br>
     3. Open the index.html file in your web browser to play the game.
 
 </p>
