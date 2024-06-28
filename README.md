@@ -1,5 +1,4 @@
 <h1>Simon Says Game Clone</h1>
-<p><b> This code is fully written by me as my Java script practice project</b></p>
 <P>Welcome to the Simon Says Game! This game is a web-based implementation of the classic memory game "Simon Says." The objective of the game is to replicate a growing sequence of colors in the correct order. With each level, the sequence gets longer, challenging your memory and concentration.</P>
 <h3>Table of Contents</h3>
 <ul>
