@@ -14,16 +14,16 @@ body {
     justify-content: center;
 }
 .yellow {
-    background-color: rgb(205, 127, 31);
+    background-color: rgb(205, 126, 31);
 }
 .red {
-    background-color: rgb(124, 40, 72);
+    background-color: rgb(124, 39, 72);
 }
 .green {
-    background-color: rgb(51, 148, 165);
+    background-color: rgb(51, 147, 165);
 }
 .purple {
-    background-color: rgb(0, 81, 128);
+    background-color: rgb(0, 80, 128);
 }
 .flash {
     background-color: white;
